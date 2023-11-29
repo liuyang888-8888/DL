@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0f13cdf3-8469-4b48-8f90-55136334ead7" name="lab">
+        <fileTransfer rootFolder="/remote-home/cs_acmis_lyy" accessType="SFTP" host="10.10.10.215" port="20028" sshConfigId="51a4b8ef-1e1c-4c80-a87d-65586caad854" sshConfig="cs_acmis_lyy@10.10.10.215:20028 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
